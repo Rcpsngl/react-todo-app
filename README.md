@@ -1,2 +1,2 @@
-# ReactJS TO DO AOO
+# ReactJS TO DO APP
 Eksikler daha sonra tamamlanıcaktır
